@@ -16,7 +16,7 @@ should be running at once for full operation.
 
 #### Run the Code
 
-To properly run this application you need to open the project in IDE and then start the  
+To properly run this application you need to open the project in IDE and then start the springboot application.
 
 
 ## Dependencies
